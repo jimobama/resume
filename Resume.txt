@@ -1,0 +1,84 @@
+Israel  O.   Johnson
+Redford Close, Feltham, UK
+     +44(0)7423004046 , +44(0)2036052306.
+johnson.obaro@hotmail.com
+
+
+Web Developer 
+
+I am a bright, talented and ambitious PHP / MYSQL(LAMP) and Java Standalone Application developer with a strong technical back-end background who possesses self-discipline and the ability to work with the minimum of supervision. Able to play a key role throughout the software development / support life cycle of a project to ensure that quality solutions meet business objectives. Possessing a team spirit but also enjoy working alone, deadline orientated and the ability to organize and present complex solutions clearly to the best of my knowledge. Graduated with first class degree in computer science.
+I am currently looking for a suitable developer position with an exciting and innovative company.
+
+
+Technical Skills 
+ PHP/MYSQL  Database Web Programming(LAMP). 
+ Knowledge on Web Services,  RestFul API development. 
+JavaScript, HTML 5, CSS &CSS3 
+JQuery & JQuery UI
+Angular JS
+Laravel  PHP Framework , Blade Templating
+
+Others Skills
+Java/Android Programming , Swing GUI 
+Knowledge on Designed Patterns Including SOLID Principle
+SQL database / UML
+Fluent In C# , Python,  C/C++ and .Net VB
+Graphical programming with WebGL.
+Window / Linux programming 
+
+Working Experience
+Iris  Software  London 
+Role: C# / C++ Software Engineer intern.	
+Developing and maintaining of existing system in the account department. 
+Period: August to September 2014 (2months).
+
+High Stage Computer World 
+Role: Computer Instructor
+            Conducting and instructing basic computer application and hardware knowledge to students age from 13 and above. 
+Period: 2010 august to 2012.
+
+
+
+
+
+
+Personal Projects [ Projects:  www.github.com/jimobama ]
+ School Projects: https://soc.uwl.ac.uk/~21187498
+
+Desktop Projects
+Cinema Ticket Management
+	A prototype system development during my studies as course work for managing tickets for cinema. Developed in Visual Basic 2012.
+Front-end Compiler
+ A finally year project build to demonstrate how computer language are constructed.
+Shopping System
+A Web page shopping carter developed with LAMP; as a requirement for my course work project.
+Fleet Application
+A Java base programming language developed to help manager cars and car hiring for fleet company. It uses File system for its back end.
+
+ Education History 
+
+West London University, UK
+Computer Science(1st  class degree)  from 2012-2015
+Subject Includes:
+1) Grid Computing
+2) Distributing System
+3) Functional Programming
+4) Object Oriented Programming
+5) Web Technology
+6) System designed and Modelling
+7) Knowledge Base System
+8) Middle-ware programming
+9) Databases
+Auchi Polytechnic, Nigeria
+Computer Science(upper credit  3.36) from 2008 – 2010
+Subjects Includes: 
+1) Basic Electronics
+2) System Design &Development
+3) Databases
+4) Research Methods
+5) Principles of Accounting
+6) Descriptive Mathematics and Statistical Theory
+7) Linear Programming
+
+References
+Provide on requested.
